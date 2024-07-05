@@ -1,0 +1,125 @@
+{
+  "project_info": {
+    "project_number": "138985972364",
+    "firebase_url": "https://easynangora-81ad5-default-rtdb.firebaseio.com",
+    "project_id": "easynangora-81ad5",
+    "storage_bucket": "easynangora-81ad5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138985972364:android:02c7087abd6d73d9a4d1a9",
+        "android_client_info": {
+          "package_name": "com.ENG.easynangora"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuMhgPrw4bsi1B8ZIeprgKgN7uNR3sxUc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138985972364:android:2c58564453d39dd8a4d1a9",
+        "android_client_info": {
+          "package_name": "com.EnG.easynangora"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuMhgPrw4bsi1B8ZIeprgKgN7uNR3sxUc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138985972364:android:39919c548b3c902fa4d1a9",
+        "android_client_info": {
+          "package_name": "com.THD.easynangora"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuMhgPrw4bsi1B8ZIeprgKgN7uNR3sxUc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138985972364:android:b4a31f0700d7a561a4d1a9",
+        "android_client_info": {
+          "package_name": "com.flutterflowENG.easynangora"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuMhgPrw4bsi1B8ZIeprgKgN7uNR3sxUc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138985972364:android:403b51b59abad1c3a4d1a9",
+        "android_client_info": {
+          "package_name": "com.flutterflowTHD.easynangora"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuMhgPrw4bsi1B8ZIeprgKgN7uNR3sxUc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138985972364:android:e008fedc0e39c2a8a4d1a9",
+        "android_client_info": {
+          "package_name": "com.mycompany.easynangora"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuMhgPrw4bsi1B8ZIeprgKgN7uNR3sxUc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

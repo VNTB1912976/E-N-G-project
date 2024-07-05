@@ -1,0 +1,68 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "breathOut",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "uid",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "create_time",
+          "order": "DESCENDING"
+        },
+        {
+          "fieldPath": "num",
+          "order": "DESCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "breathIn",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "uid",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "create_time",
+          "order": "DESCENDING"
+        },
+        {
+          "fieldPath": "num",
+          "order": "DESCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "breathOut",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "uid",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "num",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "breathIn",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "uid",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "num",
+          "order": "ASCENDING"
+        }
+      ]
+    }
+  ]
+}
